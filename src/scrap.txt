@@ -1,0 +1,2 @@
+isLargeRow && movie.poster_path || 
+                    !isLargeRow && movie.backdrop_path && (
